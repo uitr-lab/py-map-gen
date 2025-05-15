@@ -1,3 +1,4 @@
 # py-map-gen
 
-![output](https://github.com/user-attachments/assets/bbb7abc9-22e7-4e75-b95c-37f3c887607b)
+
+![output](https://github.com/user-attachments/assets/34c0e6fa-286b-4ea0-ad36-d06365693f53)
