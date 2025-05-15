@@ -1,5 +1,11 @@
 # py-map-gen
 
+Easy to use map generator, generates a self contained html file that displays a hex-map, square-map, or custom (shp file) polygon histogram map
+
+1. Get an access-token from mapbox.
+2. Update config in VIS.ipynb
+3. Generate output map 
+
 ```python
 
 config={
