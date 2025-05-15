@@ -6,6 +6,8 @@ Easy to use map generator, generates a self contained html file that displays a 
 2. Update config in VIS.ipynb
 3. Generate output map 
 
+
+## Hex grid with arcs
 ```python
 
 config={
@@ -36,6 +38,9 @@ config={
 
 ![Hex Grid: 8z with arcs](https://github.com/user-attachments/assets/34c0e6fa-286b-4ea0-ad36-d06365693f53)
 
+
+
+## Square grid with arcs
 ```python
 config={
     "input": "./example/Input_Arc.csv",
@@ -65,7 +70,7 @@ config={
 <img width="1370" alt="Square Grid: 400m with arcs" src="https://github.com/user-attachments/assets/a120b88f-4b76-4c2b-aeae-c3732a331779" />
 
 
-
+## Custom (Shapefile) grid
 ```python
 config={
     "input": "./example/Input_Arc.csv",
