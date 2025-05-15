@@ -32,6 +32,7 @@ config={
     }
 }
 ```
+<img width="1588" alt="Hex Grid: 8z with arcs" src="https://github.com/user-attachments/assets/017f0b0c-fef7-4940-96cd-cf62a311950e" />
 
 ![Hex Grid: 8z with arcs](https://github.com/user-attachments/assets/34c0e6fa-286b-4ea0-ad36-d06365693f53)
 
